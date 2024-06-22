@@ -13,7 +13,7 @@ module.exports = async ({ api, event }) => {
       note: 'bot will update you on his informations like all users, all groups, all operators, all admins every 30 minutes'
     },
     greetings: {
-      status: true,
+      status: false,
       morning: `goodmorning everyone, have a nice day.`,
       afternoon: `goodafternoon everyone, don't forget to get your Dp/Wd.`,
       evening: `goodevening everyone.`,
