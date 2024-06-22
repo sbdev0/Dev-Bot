@@ -6,7 +6,7 @@ module.exports.config = {
   name: "teach",
   version: "0.0.2",
   permission: 0,
-  prefix: 'awto',
+  prefix: '-',
   credits: "Nayan",
   description: "Teach sim",
   category: "admin",
